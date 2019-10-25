@@ -1,0 +1,17 @@
+.personal-card {
+    padding: 25px;
+    border: 1px solid #000;
+    border-radius: 25px;
+    width: 450px;
+    margin: 50px auto;
+}
+
+.box {
+    padding: 10px 20px;
+    margin-top: 15px;
+    border: 1px solid #000;
+    border-radius: 15px;
+}
+.negrita {
+    font-weight: bold;
+}
